@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skyNix96
-- 👀 I’m interested in mobile development
-- 🌱 I’m currently learn Android development
+- 👀 I’m interested in web development
+- 🌱 I’m currently learn Spring Framework
 - 📫 How to reach me: discord/@skynix0
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i love cats🐱
+- ⚡ Fun fact: i love cats
